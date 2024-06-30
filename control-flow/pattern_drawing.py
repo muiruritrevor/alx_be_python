@@ -19,5 +19,6 @@ else:
         # Print a newline character to move to the next row
         print()
         
+        
         # Increment the row counter
         row += 1
